@@ -1,0 +1,38 @@
+{
+    "menu": [
+        {
+            "name": "Clients", 
+            "url": "/clients"
+        }, 
+        {
+            "name": "Files", 
+            "url": "/files"
+        }, 
+        {
+            "name": "Support", 
+            "url": "/support"
+        }, 
+        {
+            "menu": [
+                {
+                    "name": "Accounts", 
+                    "url": "/admin/accounts"
+                }, 
+                {
+                    "name": "Communications", 
+                    "url": "/admin/communications"
+                }, 
+                {
+                    "name": "File Settings", 
+                    "url": "/admin/fileSettings"
+                }, 
+                {
+                    "name": "Users", 
+                    "url": "/admin/users"
+                }
+            ], 
+            "name": "Configuration", 
+            "url": "/admin/index"
+        }
+    ]
+}

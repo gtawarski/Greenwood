@@ -1,0 +1,24 @@
+{
+    "menu": [
+        {
+            "name": "Brokers", 
+            "url": "/brokers"
+        }, 
+        {
+            "name": "Clients", 
+            "url": "/clients"
+        }, 
+        {
+            "name": "Employees", 
+            "url": "/employees/account"
+        }, 
+        {
+            "name": "Files", 
+            "url": "/files"
+        }, 
+        {
+            "name": "News &amp; Accouncements", 
+            "url": "/news"
+        }
+    ]
+}

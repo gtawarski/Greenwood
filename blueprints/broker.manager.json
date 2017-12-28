@@ -1,0 +1,12 @@
+{
+    "menu": [
+        {
+            "name": "Employees", 
+            "url": "/employees/broker"
+        }, 
+        {
+            "name": "Files", 
+            "url": "/files"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+System Access
+	root
+	billing
+	support
+
+Account Access
+	owner
+	manager
+	user
+
+Standard Access
+	user
+
+
+
+
+
+users
+	id
+	firstname
+	lastname
+	email
+	password
+	isActive
+	isDeleted
+	isDeletedOn
+	isDeletedBy
+
+accounts
+	id
+	name
+	config
+	isActive
+	isDeleted
+	isDeletedOn
+	isDeletedBy
+
+accessConfigs
+	id
+	name
+	config
+	isActive
+
+userAccess
+	id
+	users_id
+	accounts_id
+	accessConfigs_id
+	isActive
+	isDeleted
+	isDeletedOn
+	isDeletedBy

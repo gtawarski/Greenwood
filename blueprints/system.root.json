@@ -1,0 +1,34 @@
+{
+    "menu": [
+        {
+            "menu": [
+                {
+                    "name": "File Settings", 
+                    "url": "/adminFileSettings"
+                }
+            ], 
+            "name": "Configuration", 
+            "url": "/admin/index"
+        },
+        {
+            "name": "Brokers", 
+            "url": "/brokers"
+        }, 
+        {
+            "name": "Clients", 
+            "url": "/clients"
+        }, 
+        {
+            "name": "Employees", 
+            "url": "/employees/account"
+        },
+        {
+            "name": "Files", 
+            "url": "/files"
+        }, 
+        {
+            "name": "News &amp; Accouncements", 
+            "url": "/news"
+        }
+    ]
+}

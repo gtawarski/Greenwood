@@ -1,0 +1,8 @@
+{
+    "menu": [
+        {
+            "name": "Files", 
+            "url": "/files"
+        }
+    ]
+}
